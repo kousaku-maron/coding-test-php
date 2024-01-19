@@ -5,6 +5,8 @@
 /logs/*
 /tmp/*
 /vendor/*
+/config/Migrations/*.lock
+/config/Seeds/*.lock
 
 # OS generated files #
 ######################
